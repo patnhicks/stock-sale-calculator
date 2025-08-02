@@ -2,14 +2,17 @@
 """
 Created on Fri Jul 25 10:06:09 2025
 
-@author: patnh
+Title: Stock sale colculator
+Author: Pat Hicks
+Summary: This Python script calculates the capital gains 
+tax and net profit (or loss) from selling shares 
+of stock across two separate sales. It guides 
+the user through the process of entering sale details, 
+validates input against available shares, and outputs a 
+summary of gains, tax, and final profit.
+Date July 25, 2025
 """
 
-"""
-Assignment 1
-7/8/2025
-Patrick N. Hicks, R11661632
-"""
 import sys
 
 # Declare constants
